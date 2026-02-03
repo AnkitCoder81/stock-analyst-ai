@@ -46,5 +46,4 @@ StockMarket/
 ├── README.md
 └── myenv/ # local virtual environment (not pushed)
 
-## 📁 Project Structure
 
