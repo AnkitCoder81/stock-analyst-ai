@@ -26,7 +26,7 @@ if not GROQ_API_KEY:
     st.stop()
 
 # Initialize Groq Model
-llm = ChatGroq(model="llama-3.3-70b-versatile", temperature=0.1)
+llm = ChatGroq(model="openai/gpt-oss-20b", temperature=0.1)
 
 
 # --- Data Fetching Functions ---
