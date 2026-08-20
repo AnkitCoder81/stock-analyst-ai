@@ -1,12 +1,11 @@
 # Stock Analysis App Dependencies
-streamlit==1.31.0
-langchain==0.3.15
-langchain-community==0.3.15
-langchain-core==0.3.32
-langgraph==0.2.67
-langchain-groq==0.2.1
-yfinance==0.2.36
-pandas==2.2.0
-pandas-ta==0.314b0
-plotly==5.19.0
-python-dotenv==1.0.0
+streamlit
+langchain
+langchain-community
+langgraph
+yfinance
+pandas
+pandas-ta
+plotly
+python-dotenv
+langchain-groq
